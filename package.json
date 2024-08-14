@@ -1,5 +1,5 @@
 {
-  "name": "@orestbida/iframemanager",
+  "name": "@gothassos/iframemanager",
   "version": "1.2.5",
   "description": "GDPR friendly iframe manager written in vanilla js",
   "main": "dist/iframemanager.js",
@@ -35,5 +35,6 @@
     "postcss-custom-properties": "^13.2.0",
     "rollup": "^3.25.1",
     "rollup-plugin-postcss": "^4.0.2"
-  }
+  },
+  "packageManager": "pnpm@7.27.0+sha1.572d3b6d6b0ff64f11edd1c4e8774cc7351f1089"
 }
